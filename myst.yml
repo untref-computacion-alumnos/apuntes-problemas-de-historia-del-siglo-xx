@@ -16,16 +16,39 @@ project:
     - file: contenidos/introduccion.md
     - title: Apuntes
       children:
-        - file: contenidos/apuntes/07-guerras-mundiales-rasgos-y-novedades.md
-        - file: contenidos/apuntes/08-fascismo-italiano.md
+        - title: "Unidad 1: La herencia del siglo XIX largo"
+          children:
+          - file: contenidos/apuntes/unidad-01/01-breve-introduccion-del-legado-de-las-revoluciones-burguesas-y-la-revolucion-industrial.md
+          - file: contenidos/apuntes/unidad-01/02-el-nuevo-ritmo-de-la-economia.md
+          - file: contenidos/apuntes/unidad-01/03-el-reparto-del-mundo.md
+          - file: contenidos/apuntes/unidad-01/04-la-irrupcion-de-la-sociedad-de-masas-y-los-cambios-en-los-sistemas-politicos.md
+          - file: contenidos/apuntes/unidad-01/05-las-principales-corrientes-ideologicas-liberalismo-nacionalismo-y-socialismo.md
+          - file: contenidos/apuntes/unidad-01/06-panorama-de-america-latina-y-la-argentina-en-el-transito-de-un-siglo-a-otro.md
+        - title: "Unidad 2: El mundo de entreguerras"
+          children:
+          - file: contenidos/apuntes/unidad-02/01-guerras-mundiales-rasgos-y-novedades.md
+          - file: contenidos/apuntes/unidad-02/02-fascismo-italiano.md
+          - file: contenidos/apuntes/unidad-02/03-la-revolucion-rusa-y-los-avatares-de-la-urss-hasta-1945.md
+          - file: contenidos/apuntes/unidad-02/04-la-crisis-economica-del-29-y-sus-consecuencias.md
+          - file: contenidos/apuntes/unidad-02/05-america-latina-y-argentina-en-la-era-de-las-catastrofes-1916-1943.md
+          - file: contenidos/apuntes/unidad-02/06-los-fascismos-la-segunda-guerra-y-el-holocausto.md
+        - title: "Unidad 3: La guerra fría"
+          children:
+          - file: contenidos/apuntes/unidad-03/01-el-enfrentamiento-este-oeste-escenarios-politica-y-cultura.md
+          - file: contenidos/apuntes/unidad-03/02-el-desarrollo-de-la-urss-desde-1945-a-la-perestroika.md
+          - file: contenidos/apuntes/unidad-03/03-la-caida-del-socialismo-real.md
+          - file: contenidos/apuntes/unidad-03/04-el-nuevo-rostro-de-la-sociedad-moderna-transformaciones-prosperidad-y-crisis.md
+          - file: contenidos/apuntes/unidad-03/05-america-latina-y-la-argentina-1943-1955.md
+          - file: contenidos/apuntes/unidad-03/06-america-latina-y-la-argentina-1955-1976.md
+          - file: contenidos/apuntes/unidad-03/07-america-latina-y-la-argentina-1976-a-principios-de-los-90.md
     - title: Materiales
       children:
         - title: Ejercicios
           children:
-            - file: contenidos/materiales/ejercicios/practica-1.md
+            - file: contenidos/materiales/ejercicios/archivo.md
         - title: Trabajos Prácticos
           children:
-            - file: contenidos/materiales/trabajos-practicos/trabajo-practico-01.md
+            - file: contenidos/materiales/ejercicios/archivo.md
         - title: Exámenes
           children:
             - file: contenidos/materiales/examenes/archivo-1.md

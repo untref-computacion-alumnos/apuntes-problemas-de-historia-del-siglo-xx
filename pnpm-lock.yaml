@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       mystmd:
-        specifier: ^1.8.2
+        specifier: ^1.10.1
         version: 1.10.1
       prettier:
         specifier: ^3.8.1
