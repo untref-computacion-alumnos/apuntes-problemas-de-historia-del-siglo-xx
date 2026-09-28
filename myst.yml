@@ -44,6 +44,7 @@ project:
     - title: Materiales
       children:
         - file: contenidos/materiales/resumen-general-para-los-parciales.md
+        - file: contenidos/materiales/palabras-clave-para-los-parciales.md
         - title: Ejercicios
           children:
             - file: contenidos/materiales/ejercicios/archivo.md
