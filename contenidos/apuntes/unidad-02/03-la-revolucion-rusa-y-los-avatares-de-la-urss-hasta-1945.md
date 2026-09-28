@@ -32,6 +32,26 @@ formó una nueva clase obrera de jornadas larguísimas y salarios miserables:
 el caldo de cultivo ideal para las ideas revolucionarias. Para contener la
 oposición, el zarismo dependía de la **Ojrana**, su policía secreta.
 
+El campesinado vivía en condiciones deplorables: varias familias
+compartiendo establos con los animales para conservar el calor, una sola
+olla común, consumo masivo de vodka y analfabetismo casi total. Su
+horizonte político era una fe casi mágica en la llegada de un mundo donde
+tendrían lo necesario a disposición.
+
+```{note}
+La corte, endeudada por su propia ostentación, sumó además un factor de
+desprestigio decisivo. El zarévich Alexis, único heredero varón nacido tras
+cuatro embarazos, era hemofílico. El curandero siberiano **Rasputín**
+logró calmarlo donde los médicos fracasaban y se convirtió en consejero de
+absoluta confianza de la zarina Alejandra. Su creciente influencia sobre
+las decisiones de gobierno —incluida la de entrar en la Primera Guerra
+Mundial, que el zar dudaba en tomar— le ganó la enemistad del clero y de
+la nobleza, que lo asesinaron en 1916. Para entonces el daño ya estaba
+hecho: la imagen de una monarquía gobernada de hecho por un místico
+iletrado había terminado de erosionar la legitimidad del régimen ante sus
+propios sostenes sociales.
+```
+
 ## 2. Los orígenes del movimiento revolucionario
 
 En 1898 se fundó el **Partido Socialdemócrata de los Trabajadores de

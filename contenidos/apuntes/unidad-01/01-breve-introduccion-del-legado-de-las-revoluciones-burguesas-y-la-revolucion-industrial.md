@@ -94,13 +94,36 @@ mercado interno daba estabilidad, el colonial permitía una expansión
 explosiva y ganancias extraordinarias.
 
 ```{note}
-El comercio del opio ilustra esta lógica imperial: Gran Bretaña tenía un
-fuerte déficit comercial con China (compraba enormes cantidades de té,
-seda y porcelana, pero los chinos solo aceptaban plata como pago). Para
-resolverlo, los británicos producían opio en la India, lo contrabandeaban
-hacia China y usaban la plata obtenida para financiar tanto el comercio del
-té como la propia administración colonial de la India.
+El caso de la India muestra hasta dónde llegaba esa coerción. Gran Bretaña
+empezó comprando allí *indianas* —tejidos de algodón estampado de enorme
+calidad— hasta que decidió fabricarlas ella misma. Entonces destruyó
+deliberadamente la industria textil india, con una combinación de
+aranceles prohibitivos, imposición de precios y violencia directa sobre
+los talleres, y reconvirtió a esa misma población en productora de materia
+prima. La India pasó así de exportar manufacturas a comprárselas a su
+propio colonizador: no es que llegara "tarde" a la industrialización, sino
+que fue **desindustrializada** para que Gran Bretaña pudiera
+industrializarse.
 ```
+
+```{note}
+El comercio del opio ilustra la otra cara de la misma lógica: Gran Bretaña
+tenía un fuerte déficit comercial con China (compraba enormes cantidades
+de té, seda y porcelana, pero los chinos solo aceptaban plata como pago).
+Para resolverlo, los británicos producían opio en la India —la misma
+India a la que le habían desmontado la industria textil—, lo
+contrabandeaban hacia China y usaban la plata obtenida para financiar
+tanto el comercio del té como la propia administración colonial. Cuando
+China intentó prohibir ese tráfico, Gran Bretaña le impuso su apertura por
+la fuerza en las dos Guerras del Opio.
+```
+
+Ese encadenamiento —algodón norteamericano comprado con las ganancias
+coloniales, esclavos capturados en África, manufacturas colocadas por la
+fuerza en las colonias— configuraba un **circuito comercial** cerrado que
+le garantizaba a Gran Bretaña una balanza permanentemente favorable:
+vendía siempre más de lo que compraba. Y cuando el mercado no existía, lo
+creaba mediante la coerción o el bombardeo.
 
 ### 2.3 La fábrica y el nacimiento del proletariado
 

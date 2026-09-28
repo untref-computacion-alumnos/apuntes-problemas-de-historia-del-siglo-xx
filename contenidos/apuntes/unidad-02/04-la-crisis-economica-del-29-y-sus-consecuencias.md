@@ -18,6 +18,27 @@ prestado) se había vuelto una práctica masiva, mientras que el agro
 estadounidense y mundial arrastraba ya, desde mediados de la década, una
 crisis de sobreproducción y precios en caída.
 
+```{admonition} La raíz agraria de la crisis
+:class: important
+Conviene detenerse en ese último punto, porque suele quedar tapado por el
+crac bursátil. Durante la Primera Guerra Mundial, Europa dejó de producir
+alimentos y pasó a importarlos de Estados Unidos, la Argentina, Canadá y
+Australia, con precios altísimos. Los granjeros norteamericanos se
+endeudaron fuertemente para ampliar la superficie sembrada y comprar
+maquinaria, suponiendo que esa demanda extraordinaria se sostendría. Pero
+cuando Europa recuperó su producción, hacia 1922, la oferta mundial quedó
+enormemente sobredimensionada y **los precios agrícolas se derrumbaron**.
+
+La cadena que se desata es la siguiente: caen los precios agrícolas → cae
+el valor de la tierra → los granjeros no pueden pagar sus créditos →
+quiebran los bancos rurales que los habían financiado. La Reserva Federal
+subió las tasas de interés para recomponer capitales, pero buena parte de
+ese dinero, en lugar de volver a la producción, terminó alimentando la
+especulación en Wall Street. Es decir: **la economía real ya estaba en
+crisis años antes de octubre de 1929**, y la burbuja bursátil crecía
+precisamente porque invertir en producir había dejado de ser rentable.
+```
+
 ## 2. El crac de Wall Street (octubre de 1929)
 
 La burbuja especulativa estalló entre el **"jueves negro"** (24 de
