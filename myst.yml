@@ -53,7 +53,9 @@ project:
         - title: Exámenes
           children:
             - file: contenidos/materiales/examenes/archivo-1.md
+            - file: contenidos/materiales/examenes/archivo-1-resuelto.md
             - file: contenidos/materiales/examenes/archivo-2.md
+            - file: contenidos/materiales/examenes/archivo-2-resuelto.md
 site:
   template: book-theme
   title: Apuntes de Problemas de Historia del Siglo XX
